@@ -1,2 +1,2 @@
 # MyFirstRepo
-This is my fir Repo created
+This is my first Repo created
